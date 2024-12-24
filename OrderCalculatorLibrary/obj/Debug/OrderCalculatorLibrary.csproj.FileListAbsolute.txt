@@ -1,0 +1,10 @@
+C:\Users\thunderobot\source\repos\OrderCalculatorLibrary\bin\Debug\OrderCalculatorLibrary.dll
+C:\Users\thunderobot\source\repos\OrderCalculatorLibrary\bin\Debug\OrderCalculatorLibrary.pdb
+C:\Users\thunderobot\source\repos\OrderCalculatorLibrary\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\thunderobot\source\repos\OrderCalculatorLibrary\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\thunderobot\source\repos\OrderCalculatorLibrary\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\thunderobot\source\repos\OrderCalculatorLibrary\obj\Debug\OrderCalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\thunderobot\source\repos\OrderCalculatorLibrary\obj\Debug\OrderCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thunderobot\source\repos\OrderCalculatorLibrary\obj\Debug\OrderCal.139EFA78.Up2Date
+C:\Users\thunderobot\source\repos\OrderCalculatorLibrary\obj\Debug\OrderCalculatorLibrary.dll
+C:\Users\thunderobot\source\repos\OrderCalculatorLibrary\obj\Debug\OrderCalculatorLibrary.pdb
